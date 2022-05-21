@@ -1,10 +1,14 @@
-# GLOBAL PROJECT BASED LEARNING (gPBL) 2021 | SHIBAURA INSTITUTE OF TECHNOLOGY
-# https://www.shibaura-it.ac.jp/en/study/other/
+**GLOBAL PROJECT BASED LEARNING (gPBL) 2021 | SHIBAURA INSTITUTE OF TECHNOLOGY**
 
-# Title: IoT Agricultural Monitoring Application
+https://www.shibaura-it.ac.jp/en/study/other/
 
-# Concept:
-# - Monitor sensors on plant crop (humidity, lighting/sunlight, temperature) from different location
-# - Save readings in database (Firebase) and can be accessed via website
-# - Control system from application or website
-# - Send notification to users on update on plant's condition
+**TITLE:** 
+
+*IoT Agricultural Monitoring Application*
+(gPBL2021 on Network Software)
+
+**CONCEPT:**
+- Monitor sensors on plant crop (humidity, lighting/sunlight, temperature) from different location
+- Save readings in database (Firebase) and can be accessed via website
+- Control system from application or website
+- Send notification to users on update on plant's condition
